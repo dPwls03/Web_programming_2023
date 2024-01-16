@@ -2,7 +2,7 @@
 
 # Open Challenge
 <h2>자기 소개 HTML 페이지 만들기</h2>
-<img width="600" src="./img/Open-2.jpg" alt="Open Challenge01" >
+<img width="800" src="./img/Open-2.jpg" alt="Open Challenge01" >
 <img width="800" src="./img/Open-1.jpg" alt="Open Challenge01" >
 
 # 실습문제 1번
