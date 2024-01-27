@@ -17,7 +17,7 @@
 
 # 실습문제 2.(1)번
 <h2>리스트를 가진 HTML5 페이지 작성하기</h2>
-<img width="600" src="./img/Q2(1).jpg" alt="실습문제 2.(1)번" >
+<img width="800" src="./img/Q2(1).jpg" alt="실습문제 2.(1)번" >
 <p>코드</p>
 
 <img width="800" src="./img/Q2(1)-1.jpg" alt="실습문제 2.(1)번" >
@@ -58,7 +58,7 @@
 
 # 실습문제 5번
 <h2>참조 웹 페이지 작성하기</h2>
-<img width="600" src="./img/Q5.jpg" alt="실습문제 5번" >
+<img width="800" src="./img/Q5.jpg" alt="실습문제 5번" >
 <p>코드</p>
 
 <img width="800" src="./img/Q5-1.jpg" alt="실습문제 5번" >
@@ -71,7 +71,7 @@
 
 # 실습문제 6번
 <h2>애국가 오디오 웹 페이지 작성하기</h2>
-<img width="600" src="./img/Q6.jpg" alt="실습문제 6번" >
+<img width="800" src="./img/Q6.jpg" alt="실습문제 6번" >
 <p>코드</p>
 
 <img width="800" src="./img/Q6-1.jpg" alt="실습문제 6번" >
