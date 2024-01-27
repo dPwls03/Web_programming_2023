@@ -34,9 +34,9 @@
 
 # 실습문제 4번
 <h2>html 수정하기</h2>
-<img width="600" src="./img/Q4.jpg" alt="실습문제 3번" >
+<img width="600" src="./img/Q4.jpg" alt="실습문제 4번" >
 <p> Love Me Tender에 마우스를 올리면 엘비스 프레슬리의 사진 대신 자신의 사진이 출력되도록 수정한다.</p>
 <p> 나는 자신의 사진 대신 코드 사진이 출력되도록 수정했다.</p>
-<img width="800" src="./img/Q4-1.jpg" alt="실습문제 3번" >
+<img width="800" src="./img/Q4-1.jpg" alt="실습문제 4번" >
 
 
