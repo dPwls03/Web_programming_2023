@@ -3,9 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>셀렉터 만들기</title>
 </head>
-<body>
-    
+<style>
+    body.main{
+        background-color: aqua;
+    }
+    .headline{
+        color: brown;
+        font-size: 25px;
+    }
+    div.help{
+        color: blue;
+    }
+    p.help{
+        color: red;
+        font-size: 20px;
+    }
+    #hot{
+        color: blue;
+        background-color: darkorange;
+    }
+</style>
+<body class="main">
+    <h3 class="headline">클래스 셀렉터</h3>
+    <hr>
+
+    <div class="help">도움말</div>
+    <p class="help">!!경고 메시지</p>
+    <p id="hot">뜨거운 태양</p>
 </body>
 </html>
+
