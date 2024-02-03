@@ -3,9 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>:hover 활용</title>
 </head>
+<style>
+    div {
+	width : 100px;
+	height : 140px;
+	background-image : url("./img/behind.jpg");
+	background-size : 100px 140px;
+}
+div#behind:hover {
+	background-image : url("./img/front.jpg");
+}
+</style>
 <body>
-    
+    <h3>:hover 활용</h3>
+    <hr>
+
+    <table>
+        <tr>
+            <td>마우스를 올리면 카드의 앞면이 보인다.</td>
+            <td><div id="behind"></div></td>
+        </tr>
+    </table>
 </body>
 </html>
