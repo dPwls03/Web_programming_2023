@@ -1,23 +1,14 @@
-body {
-	background : aliceblue;
-}
+@import url(4.css);
 
-h1 {
-	color : brown;
-	text-align : center;
+form {
+	background : pink;
+	border-style : none;
+	border-width : 1px;
+	margin-left : 10px;
+	margin-right : 10px;
 }
-p {
-	font-family : "휴먼편지체";
-	font-size : 1em;
-	text-indent : 1em;
-}
-footer {
-	border-radius : 10px;
-	background : orange;
-}
-section{
-    background-color: pink;
-}
-h3{
-    color: blue;
+.formspan {
+	font-family : gothic;
+	font-weight : bold;
+	color : blue;
 }
