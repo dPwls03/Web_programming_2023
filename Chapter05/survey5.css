@@ -12,3 +12,19 @@ form {
 	font-weight : bold;
 	color : blue;
 }
+
+header { 	
+	height: 20%;
+	background-color : yellow;
+}
+
+section{
+	height: 60%;
+	background-color : pink;
+}
+
+footer {
+	height : 8%; 
+	background-color: plum;
+    clear: left;
+}
