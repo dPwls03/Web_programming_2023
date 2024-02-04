@@ -12,26 +12,26 @@ h1 {
 header { 	
  	height: 20%;
  	background-color : yellow;
- 	overflow: hidden;
+ 	/* overflow: hidden; */
  }
 
 nav{
  	width: 20%; height: 72%;
  	background-color: orange;
  	float: left;
- 	overflow: hidden;
+ 	/* overflow: hidden; */
 }
 
 section {
  	width : 80%; height : 72%;
  	background : lightblue;
  	float: left;
- 	overflow: hidden;
+ 	/* overflow: hidden; */
  }
 
  footer {
  	height : 8%; 
  	background-color: plum;
 	clear: left;
-  	overflow: hidden;
+  	/* overflow: hidden; */
  }
