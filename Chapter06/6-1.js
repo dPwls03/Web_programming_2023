@@ -4,3 +4,4 @@ function over(obj) {
 function out(obj) {
 	obj.style.background="white";
 }
+
